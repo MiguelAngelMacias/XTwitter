@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Aplicación Móvil Android con Interfaz Gráfica de Usuario</strong></h1>
+  <h1><strong>Twitter/X Interfaz</strong></h1>
 </div>
 
 <div align="center">
