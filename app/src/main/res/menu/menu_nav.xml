@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_perfil"
+            android:icon="@drawable/icon_perfil"
+            android:title="Perfil"/>
+        <item
+            android:id="@+id/menu_lista"
+            android:icon="@drawable/icon_lista"
+            android:title="Lista"/>
+        <item
+            android:id="@+id/menu_temas"
+            android:icon="@drawable/icon_temas"
+            android:title="Temas"/>
+        <item
+            android:id="@+id/menu_elementos"
+            android:icon="@drawable/icon_elementos"
+            android:title="Elementos guardados"/>
+        <item
+            android:id="@+id/menu_momentos"
+            android:icon="@drawable/icon_momentos"
+            android:title="Momentos"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_twitter"
+            android:icon="@drawable/icon_twitter"
+            android:title="Twitter Ads"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_config"
+            android:title="Configuracion y Privacidad"/>
+        <item
+            android:id="@+id/menu_help"
+            android:title="Centro de ayuda"/>
+    </group>
+
+</menu>
